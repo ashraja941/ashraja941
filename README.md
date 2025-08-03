@@ -60,12 +60,6 @@ I'm a Master of Computer Science Graduate from Texas A&M with a focus on ML and 
 
 ### Let’s Connect
 
-- [Portfolio](https://ashraja941.github.io/portfolio) 
-- [LinkedIn](https://linkedin.com/in/ashwinraja)
-- [Email](mailto:ashraja941@gmail.com)
-
-### Let’s Connect
-
 <p align="center">
   <a href="https://ashraja941.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
