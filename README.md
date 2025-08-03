@@ -42,7 +42,7 @@
   *Personalized Meal Plan helper using LLMs and RAG*  
 
 - [`Rocket League Bot`](https://github.com/ashraja941/RocketLeagueBot)  
-  *Trained a Rocket League bot using PPO and A2C Reinforcement learning algorithsm*  
+  *Trained a Rocket League bot using PPO and A2C Reinforcement learning algorithms*  
 
 - [`LLM-Graph`](https://github.com/ashraja941/llm-graph)  
   *Python package to interact with LLMs through State Graphs*
