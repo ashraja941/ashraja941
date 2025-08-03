@@ -42,7 +42,7 @@
   *Personalized Meal Plan helper using LLMs and RAG*  
 
 - [`Rocket League Bot`](https://github.com/ashraja941/RocketLeagueBot)  
-  *Trained a Rocket League bot using PPO and A2C Reinforcement learning algorithms*  
+  *Trained a Rocket League bot using PPO and A2C Reinforcement learning algorithsm*  
 
 - [`LLM-Graph`](https://github.com/ashraja941/llm-graph)  
   *Python package to interact with LLMs through State Graphs*
@@ -64,6 +64,19 @@ I'm a Master of Computer Science Graduate from Texas A&M with a focus on ML and 
 - [LinkedIn](https://linkedin.com/in/ashwinraja)
 - [Email](mailto:ashraja941@gmail.com)
 
+### 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://ashraja941.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ashwinraja" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ashraja941@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 ---
 
 <p align="center">Thanks for visiting! </p>
