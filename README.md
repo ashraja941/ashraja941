@@ -61,8 +61,8 @@ Passionate developer focused on **machine learning**, **image processing**, and 
 ## 🌐 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ashwinraja941/) <!-- Replace # with your actual LinkedIn -->
-- [Email](ashraja941@gmail.com) <!-- Insert your contact email -->
-- [Portfolio](https://ashraja941.github.io/portfolio/): <!-- Optional: Add portfolio if available -->
+- [Email](mailto:ashraja941@gmail.com) <!-- Insert your contact email -->
+- [Portfolio](https://ashraja941.github.io/portfolio/) <!-- Optional: Add portfolio if available -->
 
 ---
 
