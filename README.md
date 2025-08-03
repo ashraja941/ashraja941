@@ -1,4 +1,4 @@
-# Hi there, I’m Ashraful Raja 👋
+# Hi there, I’m Ashwin Raja 👋
 
 👨‍💻 **About Me**
 Passionate developer focused on **machine learning**, **image processing**, and **automation**. Experienced in Python, PyTorch, JavaScript, and cross-platform app development. Always exploring new technologies and contributing to open source.
@@ -60,9 +60,9 @@ Passionate developer focused on **machine learning**, **image processing**, and 
 
 ## 🌐 Let’s Connect
 
-- [LinkedIn](#) <!-- Replace # with your actual LinkedIn -->
-- Email: <!-- Insert your contact email -->
-- Portfolio: <!-- Optional: Add portfolio if available -->
+- [LinkedIn](https://www.linkedin.com/in/ashwinraja941/) <!-- Replace # with your actual LinkedIn -->
+- [Email](ashraja941@gmail.com) <!-- Insert your contact email -->
+- [Portfolio](https://ashraja941.github.io/portfolio/): <!-- Optional: Add portfolio if available -->
 
 ---
 
