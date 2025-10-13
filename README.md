@@ -47,8 +47,10 @@
 - [`LLM-Graph`](https://github.com/ashraja941/llm-graph)  
   *Python package to interact with LLMs through State Graphs*
 
+- [`1 Billion Row Challenge`](https://github.com/ashraja941/1BRC)
+  *Optimization challenge to try and process 1 billion rows of data as fast as possible*
+
 ➡️ More projects in [my pinned repos](https://github.com/ashraja941?tab=repositories)  
-(Refactors and documentation in progress.)
 
 ---
 
