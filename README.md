@@ -37,7 +37,9 @@
 ---
 
 ### Featured Projects
-
+- [`uGIT`](https://github.com/ashraja941/ugit)  
+  *Git like Version Control System, built from scratch*
+    
 - [`Broken Basket`](https://github.com/ashraja941/BrokenBasket)  
   *Personalized Meal Plan helper using LLMs and RAG*  
 
